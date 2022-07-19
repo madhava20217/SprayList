@@ -11,8 +11,8 @@ fi
 
 bin=bin/spray
 
-num_procs=(1 2 4 8 16 32 40 64 80)
-#num_procs=(8 16 32 64)
+#num_procs=(1 2 4 8 16 32 40 64 80)
+num_procs=(8 16)
 #num_procs=(80)
 
 echo "#procs,spray,lotan_shavit,linden,skip"
